@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:wght@700;900&display=swap");
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  box-sizing: border-box;
+  font-size: 1.6rem;
+  font-family: "Barlow", sans-serif;
+  /* font-family: "Fraunces", serif; */
+}
+img {
+  width: 100%;
+  max-width: 100%;
+}
+.nav {
+  position: fixed;
+  display: flex;
+  width: 1128px;
+  justify-content: space-between;
+  align-items: center;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 4rem;
+}
+.logo {
+  width: 200px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+.menu-item:not(:last-child) {
+  margin-right: 4rem;
+}
+.menu a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: lighter;
+}
+.contact {
+  background-color: #fff;
+  padding: 1.5rem 3rem;
+  border-radius: 50rem;
+  transition: all 167ms;
+}
+.contact:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.contact a {
+  color: hsl(212, 27%, 19%);
+  font-family: "Fraunces", serif;
+  font-size: 1.6rem;
+  font-weight: bold;
+  transition: all 167ms;
+}
+.contact:hover a {
+  color: #fff;
+}
+.hero {
+  background-image: url(../images/desktop/image-header.jpg);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-1 {
+  font-size: 6rem;
+  font-family: "Fraunces", serif;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 6px;
+}
+
+.arrow-down {
+  width: 4rem;
+  display: block;
+  margin: 0 auto;
+  margin-top: 13rem;
+}
