@@ -227,3 +227,58 @@ img {
   color: hsl(210, 4%, 67%);
   padding-top: 1.5rem;
 }
+.images {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.image {
+  height: 50rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.image-1 {
+  background-image: url("../images/desktop/image-gallery-milkbottles.jpg");
+}
+.image-2 {
+  background-image: url("../images/desktop/image-gallery-orange.jpg");
+}
+.image-3 {
+  background-image: url("../images/desktop/image-gallery-cone.jpg");
+}
+.image-4 {
+  background-image: url("../images/desktop/image-gallery-sugarcubes.jpg");
+}
+.footer {
+  background-color: hsl(168, 34%, 41%);
+  padding: 7rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footer img {
+  width: 200px;
+}
+.footer-menu {
+  display: flex;
+  margin-top: 5rem;
+  column-gap: 4rem;
+}
+.footer-menu li {
+  list-style: none;
+}
+.footer-menu a {
+  text-decoration: none;
+  color: hsl(167, 40%, 24%);
+  font-size: 1.8rem;
+  transition: all 250ms;
+}
+.footer-menu li:hover a {
+  color: #fff;
+}
+.social {
+  margin-top: 7rem;
+}
+.social i {
+  font-size: 2.5rem;
+}
