@@ -179,3 +179,51 @@ img {
   width: 80%;
   margin: 0 auto;
 }
+.clients {
+  width: 80%;
+  margin: 0 auto;
+  padding: 15rem 0;
+  text-align: center;
+}
+.heading-4 {
+  font-size: 2.1rem;
+  font-family: "Fraunces", serif;
+
+  letter-spacing: 2px;
+  color: hsl(210, 4%, 67%);
+}
+.flex-container {
+  display: flex;
+  margin-top: 7rem;
+}
+.user {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.user-image {
+  width: 80px;
+  border-radius: 50%;
+  margin-bottom: 4rem;
+}
+.user-about {
+  width: 80%;
+  font-size: 1.7rem;
+  line-height: 1.5;
+  color: hsl(213, 9%, 39%);
+  font-weight: 600;
+  margin-bottom: 5rem;
+}
+.heading-5 {
+  font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  font-family: "Fraunces", serif;
+  font-weight: 900;
+}
+.heading-5 span {
+  font-family: "Barlow", sans-serif;
+  font-size: 1.5rem;
+  color: hsl(210, 4%, 67%);
+  padding-top: 1.5rem;
+}
