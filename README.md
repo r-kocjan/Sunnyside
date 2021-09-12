@@ -16,33 +16,31 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
 
 ### Screenshot
 
-![](./screenshot.jpg)
+# Desktop
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![img1](https://user-images.githubusercontent.com/65490113/132997042-3926cea5-8c0c-484e-a085-22600da2e9d5.png)
+![img2](https://user-images.githubusercontent.com/65490113/132997049-558678aa-6e83-48a1-84da-94e2315df9a7.png)
+![img3](https://user-images.githubusercontent.com/65490113/132997055-fd5543dd-f2c9-4c56-b88f-981a6676a8ac.png)
+![img4](https://user-images.githubusercontent.com/65490113/132997059-06a5a0b5-1dce-410a-9c80-8006f5378b70.png)
+![img5](https://user-images.githubusercontent.com/65490113/132997061-69e53bcf-80fc-4666-9582-fd430498046a.png)
+![img6](https://user-images.githubusercontent.com/65490113/132997063-bd705a67-c318-40c6-b6ab-260e9ea4113d.png)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
+# Mobile
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![img7](https://user-images.githubusercontent.com/65490113/132997068-25a61bcc-ae99-4888-a5b0-290be119a0d4.png)
+![img8](https://user-images.githubusercontent.com/65490113/132997069-8d79a917-1a46-4731-86a5-196d3876352d.png)
+![img9](https://user-images.githubusercontent.com/65490113/132997070-18e14606-dd6f-4401-a7b5-bb767feb8b5e.png)
+![img10](https://user-images.githubusercontent.com/65490113/132997071-03530723-30f9-4043-bcbd-037b50ce9de1.png)
+![img11](https://user-images.githubusercontent.com/65490113/132997072-dd089237-b140-47cd-b1e6-016257e79dad.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
-### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ## My process
 
@@ -52,62 +50,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+Remigiusz :)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
